@@ -6,7 +6,7 @@ body{
 }
 
 p{
-    color: rgba(189, 116, 28, 0.692);
+    color: rgba(6, 5, 5, 0.692);
     font-size: 24px;
 }
 img{
@@ -26,10 +26,10 @@ img{
 }
 button{
     border: none;
-    background-color: rgb(43, 10, 10);
+    background-color: rgb(53, 4, 4);
     height: 40px;
     width: 100px;
-    color: rgb(12, 96, 117);
+    color: rgb(13, 8, 55);
     border-radius: 8px;
     margin-right: 4px;
 }
@@ -40,5 +40,5 @@ button :hover {
 
 a{
     text-decoration: none;
-    color:black;
+    color:rgb(10, 4, 56);
 }
