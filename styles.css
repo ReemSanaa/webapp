@@ -1,0 +1,44 @@
+body{
+    background-color:rgb(51, 150, 92);
+    display: flex;
+    justify-content: center;
+    color:black;
+}
+
+p{
+    color: rgba(189, 116, 28, 0.692);
+    font-size: 24px;
+}
+img{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.profile-section{
+    background-color: rgb(87, 73, 55);
+    text-align: center;
+    border-radius: 8px;
+    padding: 24px;
+    width: 50%;
+
+}
+button{
+    border: none;
+    background-color: rgb(43, 10, 10);
+    height: 40px;
+    width: 100px;
+    color: rgb(12, 96, 117);
+    border-radius: 8px;
+    margin-right: 4px;
+}
+
+button :hover {
+    background-color: rgb(87, 73, 55);
+}
+
+a{
+    text-decoration: none;
+    color:black;
+}
